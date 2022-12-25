@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab3NavigationLab</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="filmName">Film name</string>
+    <string name="title">Films List</string>
+    <string name="filmTitle">Film Title</string>
+    <string name="filmDescription">Film Description</string>
+    <string name="btn_borsh">Борщ</string>
+    <string name="btn_puree">Пюре</string>
+    <string name="btn_shroom">Пирожки</string>
+</resources>
